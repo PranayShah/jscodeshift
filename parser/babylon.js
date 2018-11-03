@@ -24,7 +24,7 @@ const options = {
     'doExpressions',
     'trailingFunctionCommas',
     'objectRestSpread',
-    ['decorators', {decoratorsBeforeExport: false, legacy: true}],
+    ['decorators', {decoratorsBeforeExport: true, legacy: true}],
     'classProperties',
     'exportExtensions',
     'exponentiationOperator',
